@@ -7,7 +7,7 @@
 ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-FF6F00?style=for-the-badge)
 
 ## **AI-based Prediction System for Eco-Friendly Urban Planning**
-
+https://dust-prediction-model.vercel.app/
 ### 💡 Project Overview
 Our project is an AI-based traffic and environmental prediction system that uses the ARIMA time series prediction model to learn past traffic volume data and predict future traffic volume, and calculates the expected fine dust emission from this.
 
